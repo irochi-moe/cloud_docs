@@ -48,11 +48,11 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        {
+        /* {
           href: 'https://discord.cloud.irochi.moe',
           label: '디스코드',
           position: 'left',
-        },
+        }, */
         /* {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
